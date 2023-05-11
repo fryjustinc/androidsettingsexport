@@ -1,0 +1,21 @@
+<application>
+  <component name="MaterialCustomThemeConfig">
+    <option name="colorScheme" value="Monokai Pro (Material)" />
+    <option name="excludedColor" value="3a3a3cff" />
+    <option name="accentColor" value="ffd866ff" />
+    <option name="notificationsColor" value="363437ff" />
+    <option name="treeSelectionColor" value="403e41ff" />
+    <option name="highlightColor" value="5b595cff" />
+    <option name="secondBorderColor" value="2d2a2eff" />
+    <option name="tableSelectedColor" value="4a474bff" />
+    <option name="contrastColor" value="221f22ff" />
+    <option name="disabledColor" value="5b595cff" />
+    <option name="secondaryBackgroundColor" value="403e41ff" />
+    <option name="buttonColor" value="403e41ff" />
+    <option name="selectionForegroundColor" value="ffffffff" />
+    <option name="selectionBackgroundColor" value="6e6c6fff" />
+    <option name="textColor" value="939293ff" />
+    <option name="foregroundColor" value="fcfcfaff" />
+    <option name="backgroundColor" value="2d2a2eff" />
+  </component>
+</application>

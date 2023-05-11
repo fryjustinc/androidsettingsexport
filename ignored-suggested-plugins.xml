@@ -1,0 +1,9 @@
+<application>
+  <component name="IgnoredPluginSuggestions">
+    <option name="pluginIds">
+      <list>
+        <option value="com.google.gct.core" />
+      </list>
+    </option>
+  </component>
+</application>

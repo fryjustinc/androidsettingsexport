@@ -1,0 +1,6 @@
+<application>
+  <component name="ScreenRecorderOptions">
+    <option name="resolutionHeight" value="1920" />
+    <option name="resolutionWidth" value="1920" />
+  </component>
+</application>
