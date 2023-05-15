@@ -1,0 +1,22 @@
+<application>
+  <component name="StudioBotSettings">
+    <option name="onboardingCompleted" value="true" />
+    <option name="queryHistory">
+      <list>
+        <historyEntry timestamp="1684160182365">Explain the following code:
+
+override fun onPlaybackStateChanged(playbackState: Int) {
+        super.onPlaybackStateChanged(playbackState)
+        if(playbackState == Player.STATE_ENDED){
+            val opts = IO.Options().apply {
+                //allowUpgrades = false
+                transports = arrayOf(WebSocket.NAME)
+                forceNew = true
+                reconnection = false
+//            port = 8087
+                query = &quot;session_id=${vibaSettings.room}&amp;user_id=${vibaSettings.localUserId}&amp;user_type=customer&amp;queue=${vibaSettings.queue}&amp;guid=QRC-c1c40c73-6bbf-4b4f-ad7c-3707ac7ceb22&quot;</historyEntry>
+        <historyEntry timestamp="1683815030835">What is a composable?</historyEntry>
+      </list>
+    </option>
+  </component>
+</application>
