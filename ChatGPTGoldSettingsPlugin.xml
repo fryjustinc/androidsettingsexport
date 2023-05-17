@@ -1,0 +1,22 @@
+<application>
+  <component name="com.obiscr.chatgpt.settings.a.OpenAISettingsState">
+    <contentStates>
+      <list>
+        <ChatGPTContentState>
+          <enable>true</enable>
+          <content>ChatGPT</content>
+        </ChatGPTContentState>
+        <ChatGPTContentState>
+          <order>1</order>
+          <enable>true</enable>
+          <content>GPT-3.5-Turbo</content>
+        </ChatGPTContentState>
+        <ChatGPTContentState>
+          <order>2</order>
+          <enable>true</enable>
+          <content>Online ChatGPT</content>
+        </ChatGPTContentState>
+      </list>
+    </contentStates>
+  </component>
+</application>
