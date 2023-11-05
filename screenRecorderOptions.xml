@@ -1,6 +1,5 @@
 <application>
   <component name="ScreenRecorderOptions">
-    <option name="resolutionHeight" value="1920" />
-    <option name="resolutionWidth" value="1920" />
+    <option name="showTaps" value="true" />
   </component>
 </application>
