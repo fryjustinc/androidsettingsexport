@@ -5,8 +5,12 @@
   <component name="DBNavigator.Application.PluginConflictManager">
     <plugin-conflict-prompted value="false" />
     <file-types-claimed value="true" />
-    <sql-plugin-status value="MISSING" />
-    <sbn-plugin-status value="PASSIVE" />
+  </component>
+  <component name="DBNavigator.Application.PluginStatusManager">
+    <plugin-statuses>
+      <status project="$USER_HOME$/Dev/chickfila-android" dbn="PASSIVE" sql="MISSING" />
+      <status project="DEFAULT" dbn="PASSIVE" sql="MISSING" />
+    </plugin-statuses>
   </component>
   <component name="DBNavigator.Application.Settings">
     <diagnostics>

@@ -13,4 +13,7 @@
     </option>
     <option name="version" value="1.79-231" />
   </component>
+  <component name="gettingStarted">
+    <option name="shouldDisplayPage" value="false" />
+  </component>
 </application>
