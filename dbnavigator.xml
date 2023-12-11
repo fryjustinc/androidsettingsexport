@@ -8,6 +8,7 @@
   </component>
   <component name="DBNavigator.Application.PluginStatusManager">
     <plugin-statuses>
+      <status project="$USER_HOME$/Dev/GB42Android" dbn="PASSIVE" sql="MISSING" />
       <status project="$USER_HOME$/Dev/chickfila-android" dbn="PASSIVE" sql="MISSING" />
       <status project="DEFAULT" dbn="PASSIVE" sql="MISSING" />
     </plugin-statuses>
